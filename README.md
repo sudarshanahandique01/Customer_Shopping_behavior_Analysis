@@ -9,3 +9,6 @@ PostgreSQL — Used to store and manage processed customer data.
 SQLAlchemy — Used to simplify database connection and data loading operations.
 psycopg2 — Used to connect Python applications with PostgreSQL database.
 Power BI — Used to create interactive dashboards and visualize business insights.
+
+<img width="1201" height="615" alt="image" src="https://github.com/user-attachments/assets/a862852f-144f-41ef-b43f-30386651d2a0" />
+
